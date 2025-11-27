@@ -24,7 +24,7 @@ npm run dev
 ## 🎥 Демонстрация
 
 ### Примерный сценарий использования
-![Demonstration of the work](./src//assets/gif-math-trainer.gif)
+![Demonstration of the work](./src//assets/Demonstration.gif)
 
 ---
 
