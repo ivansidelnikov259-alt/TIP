@@ -17,7 +17,7 @@ npm run dev
 
 ### 🧮 Математический тренажёр на GitHub Pages
 
-[Публичная страница на GitHub Pages](https://dmchfast.github.io/math-trainer/)
+[Публичная страница на GitHub Pages](https://ivansidelnikov259-alt.github.io/TIP/)
 
 ---
 
