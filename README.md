@@ -57,7 +57,7 @@ npm run dev
 ## 🛠 Технологии
 
 - React
-- JSX
+- HTML
 - CSS
 - JavaScript
 
